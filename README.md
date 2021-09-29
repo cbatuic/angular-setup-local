@@ -8,6 +8,7 @@ See original post [here](https://www.freakyjolly.com/setup-git-in-angular-projec
 
 ```bash
 > node --version
+> npm --version
 > git --version
 > mkdir angularsetup
 > cd angularsetup
