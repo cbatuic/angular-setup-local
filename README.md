@@ -1,4 +1,4 @@
-# How to setup Git in Angular project and Commit to Github
+# How to setup Git in Angular project locally and Commit to Github?
 See original post [here](https://www.freakyjolly.com/setup-git-in-angular-project-commit-changes/).
 
 1. Install requirements
