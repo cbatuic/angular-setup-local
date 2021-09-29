@@ -52,7 +52,9 @@ See original post [here](https://www.freakyjolly.com/setup-git-in-angular-projec
 
 ```bash
 > git remote add origin https://github.com/[yourgithubusername]/lastnameangularsetup.git
-> git push -u origin master
+# (example) git remote add origin https://github.com/cbatuic/balamanangularsetup.git
+> git branch -M main
+> git push -u origin main
 ```
 
 8. **That’s it now you have successfully committed your files on GitHub repository!** 
