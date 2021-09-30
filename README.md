@@ -59,7 +59,7 @@ See original post [here](https://www.freakyjolly.com/setup-git-in-angular-projec
 
 8. **That’s it now you have successfully committed your files on GitHub repository!** 
 
-Note: Now when you will make modifications to any files or folders, follow the same procedure in step 4 above to commit your changes.
+Note: Now when you will make modifications to any files or folders, follow the same procedure in step 5 above to commit your changes.
 
 ```bash
 > git status
